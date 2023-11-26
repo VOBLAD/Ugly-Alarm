@@ -4,7 +4,7 @@ const alarmOff = document.getElementById("off");
 const alarmTime = document.getElementById("alarmtime")
 
 
-ringtone = new Audio("./files/ringtone.mp3");
+ringtone = new Audio("./ringtone.mp3");
 
 
 function setAlarm(){
